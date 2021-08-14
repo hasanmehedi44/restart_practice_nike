@@ -1,0 +1,89 @@
+
+html {
+    background: #FFF9F4;
+}
+header {
+    background: #FFF9F4;
+}
+.navbar-brand img {
+    width: 291px;
+    height: 40px;
+}
+header h1 {
+    text-transform: uppercase;
+}
+header span {
+    color: #FA804C;
+}
+.buy-now-btn {
+    border: none;
+    outline: none;
+    background: #3D4FF3;
+    padding: 10px 20px;
+    border-radius: 3px;
+    color: white;
+}
+.buy-now-btn .fas {
+    color: white;
+}
+.header-banner img {
+    padding: 30px;
+}
+.header-banner h1 {
+    font-size: 80px;
+}
+.header-banner p {
+    margin: 12px 0px;
+    font-size: 26px;
+    line-height: 26px;
+}
+.header-banner button {
+    margin: 12px 0px;
+}
+.card img {
+    background: rgba(0, 0, 0, 0.136);
+    border-radius: 10px;
+}
+.card p.h1 {
+    color: #FA804C;
+}
+.formal-shoes img {
+    border-radius: 0;
+    background: none;
+}
+.grid {
+    padding-bottom: 300px;
+    padding-top: 100px;
+}
+/* .card-body span {
+    margin-right: 35px;
+}
+.card-body button {
+    margin-left: 35px;
+} */
+
+
+
+
+@media only screen and (max-width: 450px) {
+    .navbar-brand img {
+        width: 150px;
+        height: 24px;
+    }
+    /* .header-banner h1 {
+        font-size: 22px;
+    } */
+    /* header p {
+        font-size: 10px;
+    } */
+    /* .header-banner img {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    } */
+}
+/* @media only screen and (max-width: 350px) {
+    .navbar-brand img {
+        width: 150px;
+    }
+} */
